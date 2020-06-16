@@ -1,0 +1,3 @@
+# This project will create and maintain an Open Source Customer Communication Management System.
+
+The scope of the system is defined...
