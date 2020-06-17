@@ -1,1 +1,6 @@
-# High level development stategy
+# High level development strategy
+
+::: mermaid
+ graph LR;
+ A[Wiki supports Mermaid] --> B[Visit https://mermaidjs.github.io/ for Mermaid syntax];
+:::
