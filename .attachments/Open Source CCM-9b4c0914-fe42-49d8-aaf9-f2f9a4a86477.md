@@ -8,21 +8,17 @@ Title
 |-------------|------------|
 | **Author:** | Jim Deane  |
 
-# Table of Contents
 
 # Document Control
 
 ## Document History
 
+
 | Version | Date       | Author    | Summary of changes |
 |---------|------------|-----------|--------------------|
-| 0.1     | 2018-03-01 | Jim Deane | New Document       |
+| 0.1     | 2020-06-01 | Jim Deane | New Document       |
 |         |            |           |                    |
-|         |            |           |                    |
-|         |            |           |                    |
-|         |            |           |                    |
-|         |            |           |                    |
-|         |            |           |                    |
+
 
 # Context
 
