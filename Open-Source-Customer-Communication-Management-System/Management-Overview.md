@@ -5,7 +5,7 @@ graph TD
 D[Laptop]---L;
 L---M;
 E[iPhone];
-F[gfdgdg]-- Q[ff];
+F[gfdgdg]-- dfgfdg ---Q[ff];
 
 
 linkStyle 0 stroke:#FFF,stroke-width:4px,color:red;
