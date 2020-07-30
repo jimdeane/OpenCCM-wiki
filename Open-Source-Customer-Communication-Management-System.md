@@ -9,6 +9,6 @@ There are two real reasons for constructing this project:
 [Management Overview](/Open-Source-Customer-Communication-Management-System/Management-Overview)
 
 
-[User Journeys](/Open-Source-Customer-Communication-Management-System/User-Journeys)
+[User Journeys](/User%2DJourneys)
 
 [ Mermaid docs for diagrams](https://mermaid-js.github.io/mermaid/#/)
