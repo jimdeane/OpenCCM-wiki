@@ -2,9 +2,9 @@
 
 ::: mermaid
 graph TD 
-D[Laptop]---B;
+D[Laptop]-->B;
 E[iPhone];
-F[gfdgdg]-->Q[ff]-->Z[gfffgf]-->L;
+%%F[gfdgdg]-->Q[ff]-->Z[gfffgf]-->L;
 
 
 linkStyle 0 stroke:#FFF,stroke-width:4px,color:red;
