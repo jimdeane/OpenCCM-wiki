@@ -6,11 +6,11 @@ Registration
 	- Process SMS confirmation inbound
 ::: mermaid
 graph LR;
- Registration-->Send email confirmation
-Registration-->Send SMS confirmation 
-Registration-->Send Registration details / welcome pack
-Registration-->Process email confirmation inbound
-Registration-->Process SMS confirmation inbound
+Registration-->id01[Send email confirmation]
+Registration-->id02[Send SMS confirmation] 
+Registration-->id03[Send Registration details / welcome pack]
+Registration-->id04[Process email confirmation inbound]
+Registration-->id05[Process SMS confirmation inbound]
 
 
 :::
