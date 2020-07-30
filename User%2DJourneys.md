@@ -5,7 +5,7 @@ Registration
 	- Process email confirmation inbound
 	- Process SMS confirmation inbound
 ::: mermaid
-graph LR;
+graph TD;
 Registration-->id01[Send email confirmation]
 Registration-->id02[Send SMS confirmation] 
 Registration-->id03[Send Registration details / welcome pack]
