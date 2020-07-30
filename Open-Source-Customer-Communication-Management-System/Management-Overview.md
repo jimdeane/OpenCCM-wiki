@@ -2,7 +2,7 @@
 
 ::: mermaid
 graph TD 
-D[Laptop]-->B;
+D[Laptop];
 E[iPhone];
 %%F[gfdgdg]-->Q[ff]-->Z[gfffgf]-->L;
 
