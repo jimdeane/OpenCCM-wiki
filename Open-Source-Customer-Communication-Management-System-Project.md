@@ -10,11 +10,22 @@ The documentation in in two streams:
 - The actual documentation for the project.
 
 Both of these streams start from this page. Some parts of the narrative will refer to the actual documentation to illustrate the points it's making, however, the real documentation ( other than this page ) will not refer to the narrative. 
-|   |   |
-| - | - |
-| The Documentation starts | [here](/Open-Source-Customer-Communication-Management-System-Project/Open-Source-Customer-Communication-System)|
-| The Narrative starts | [here](/Open-Source-Customer-Communication-Management-System-Project/Narrative) |
 
 ----
+ <table style="%">
+   <tr>
+    <td>The Documentation starts</td>
+    <td>
 
+[here](/Open-Source-Customer-Communication-Management-System-Project/Open-Source-Customer-Communication-System)
+</td>
+    
+  </tr>
+  <tr>
+    <td>The Narrative starts</td>
+    <td>
 
+[here](/Open-Source-Customer-Communication-Management-System-Project/Narrative)
+</td> 
+  </tr>
+</table>
