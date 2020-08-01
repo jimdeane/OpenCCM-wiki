@@ -8,10 +8,10 @@ I would like to show the entire process of create, document, develop, test and d
 
 This Overview section is recording the documentation that will be presented in the rest of the notebook and will point to the relevant YouTube and GitHub repositories. 
 
-There are two themes to the arrative:
-- The scope of the sysyem and how that was arrived at, and
-- The process used to achieve the end result.
+There are two themes to the narrative:
+- The scope of the system and how that was arrived at, recorded [here](/Open-Source-Customer-Communication-Management-System-Project/Narrative/System-Scope), and
+- The process used to achieve the end result, recorded [here](/Open-Source-Customer-Communication-Management-System-Project/Narrative/Development-Process)
 
-In addition there is a multi media presentation of the process that take sthe form of a scripted video series presnted on YouTube.
+In addition there is a multi media presentation of the process that takes the form of a scripted video series presented on YouTube.
 
-The scrips are prepared using Scrivener and published din this wiki [here]([Script for YouTube series](/Open-Source-Customer-Communication-Management-System-Project/Narrative/Script-for-YouTube-series))
+The scrips are prepared using Scrivener and published [here ](/Open-Source-Customer-Communication-Management-System-Project/Narrative/Script-for-YouTube-series).
