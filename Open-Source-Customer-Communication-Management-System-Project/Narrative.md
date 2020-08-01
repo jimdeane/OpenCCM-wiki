@@ -14,4 +14,4 @@ There are two themes to the narrative:
 
 In addition there is a multi media presentation of the process that takes the form of a scripted video series presented on YouTube.
 
-The scrips are prepared using Scrivener and published [here ](/Open-Source-Customer-Communication-Management-System-Project/Narrative/Script-for-YouTube-series).
+The scripts are prepared using Scrivener and published [here ](/Open-Source-Customer-Communication-Management-System-Project/Narrative/Script-for-YouTube-series).
