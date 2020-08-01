@@ -15,7 +15,7 @@ id10[10 Process SMS<br>confirmation<br>inbound];
 
 
 class id00,id01,id02,id03,id04,id05,id06 yyy;
-classDef yyyf ill:yellow,stroke:#333,stroke-width:2px;
+classDef yyy fill:yellow,stroke:#333,stroke-width:2px;
 linkStyle 0 stroke:#FFF,stroke-width:4px,color:red;
 linkStyle 1 stroke:#FFF,stroke-width:4px,color:red;
 linkStyle 2 stroke:#FFF,stroke-width:4px,color:red;
