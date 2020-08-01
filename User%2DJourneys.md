@@ -13,8 +13,8 @@ id08[08 Something else<br>under 06]
 id09[09 Another one<br>under 06]
 id10[10 Process SMS<br>confirmation<br>inbound];
 id00---id01
-id00---id02
-id01---id03
+id01---id02
+id02---id03
 id04---id05
 id05---id06
 id06---id07
