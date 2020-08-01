@@ -72,5 +72,6 @@ ecosystem that can lead to communications of various sorts
 -   ATDD, BDD, TDD techniques throughout
 -   Command Query Responsibility Separation (CQRS) design
 -   Micro Services
+<br>
 
  </div>
