@@ -1,6 +1,6 @@
 ## System Overview
 
-The scope of the system is based on this:
+The scope of the system is based on this very high level outline showing some of the communications that would be required by a Life Assurance broker 
 
 <div style="background-color: lightgrey;">
 
@@ -19,7 +19,7 @@ ecosystem that can lead to communications of various sorts
 -   Underwriting
     -   Send an underwriting special terms letter
     -   Process customer acceptance or rejection of terms
--   Policy fulfilment
+-   Policy fulfillment
     -   Send welcome pack
     -   Send Policy Details
 
@@ -45,7 +45,7 @@ ecosystem that can lead to communications of various sorts
 -   Require certain communications to be approved by nominated parties according
     to rules before distribution
 -   Create and maintain templates for all communications made
--   Define the composition of the communications made for any core busines event
+-   Define the composition of the communications made for any core business event
 -   Create ad-hoc business events
 -   Map core business events to communications events
 -   Map core business objects / values to communication objects / values
@@ -54,7 +54,7 @@ ecosystem that can lead to communications of various sorts
  
 ####Technical Architecture and process
 -   Microsoft architecture; .NET Core, SQL Server (etc.)
--   Queueing architecture to ensure scalability and performance (RabbitMQ)
+-   Queuing architecture to ensure scalability and performance (RabbitMQ)
 -   Browser based UI for all components
 -   Azure hosting
 -   Azure DevOps ADLC
