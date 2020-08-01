@@ -4,8 +4,6 @@ This covers more than simply the the "programming" part of the development proce
 
 The process used is, almost inevitably, an Agile one and tends towards a Kanban style. it's not possible, of course, to demonstrate all of the parts of the process that would normally be seen in a development with a full team of people, but the important elements of this are shown wherever it is possible. 
 
-
-![Kanban Process copy.png(/.attachments/Kanban%20Process%20copy-cca70c78-74f3-4e9f-b350-f47e3b18cd73.png)
-
+![Kanban Process copy.png](/.attachments/Kanban%20Process%20copy-17defcc1-e43e-43c8-ad0b-cf93b718eb09.png)
 ![Kanban Process copy1.png](/.attachments/Kanban%20Process%20copy1-cbfcf75c-b4df-45ca-a739-27db81d9e5ea.png)
 
