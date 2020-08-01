@@ -6,5 +6,12 @@ The purpose of this project is to provide a series of artifacts that I can show 
 
 I would like to show the entire process of create, document, develop, test and deploy with each step followed with a YouTube video, GitHub files etc. to allow anyone to see how I have approached the whole thing and the end result. 
 
-This Overview section is documenting the documentation that will be presented in the rest of the notebook and will point to the relevant YouTube and GitHub repositories. 
+This Overview section is recording the documentation that will be presented in the rest of the notebook and will point to the relevant YouTube and GitHub repositories. 
 
+There are two themes to the arrative:
+- The scope of the sysyem and how that was arrived at, and
+- The process used to achieve the end result.
+
+In addition there is a multi media presentation of the process that take sthe form of a scripted video series presnted on YouTube.
+
+The scrips are prepared using Scrivener and publushe din this wiki [here]()
