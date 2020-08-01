@@ -12,7 +12,7 @@ The documentation in in two streams:
 Both of these streams start from this page. Some parts of the narrative will refer to the actual documentation to illustrate the points it's making, however, the real documentation ( other than this page ) will not refer to the narrative. 
 |   |   |
 | - | - |
-| The Documentation starts | [[here]] |
+| The Documentation starts | [here](/Open-Source-Customer-Communication-Management-System-Project/Open-Source-Customer-Communication-System)|
 | The Narrative starts | [[here]] |
 
 ----
