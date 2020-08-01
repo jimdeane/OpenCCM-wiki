@@ -17,9 +17,4 @@ Both of these streams start from this page. Some parts of the narrative will ref
 
 ----
 
-| Links |
-|--|
-|[Management Overview](/Open-Source-Customer-Communication-Management-System/Management-Overview)  |
-|[ Mermaid docs for diagrams](https://mermaid-js.github.io/mermaid/#/)  |
-|[User Journeys](/User%2DJourneys)|
 
