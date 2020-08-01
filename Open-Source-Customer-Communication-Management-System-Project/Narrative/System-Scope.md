@@ -2,7 +2,7 @@
 
 The scope of the system is based on this very high level outline showing some of the communications that would be required by a Life Assurance broker 
 
-<div style="background-color: lightgrey;">
+<div style="background-color: lightgrey; margin:  5px 5px 5px 5px;padding: 5px 5px 5px 5px;">
 
 ###Taken from a Financial Services, Life and Pensions, Fintech
 ecosystem that can lead to communications of various sorts
