@@ -13,7 +13,7 @@ Both of these streams start from this page. Some parts of the narrative will ref
 |   |   |
 | - | - |
 | The Documentation starts | [here](/Open-Source-Customer-Communication-Management-System-Project/Open-Source-Customer-Communication-System)|
-| The Narrative starts | [[here]] |
+| The Narrative starts | [here](/Open-Source-Customer-Communication-Management-System-Project/Narrative) |
 
 ----
 
