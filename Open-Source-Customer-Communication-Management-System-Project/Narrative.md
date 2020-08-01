@@ -14,4 +14,4 @@ There are two themes to the arrative:
 
 In addition there is a multi media presentation of the process that take sthe form of a scripted video series presnted on YouTube.
 
-The scrips are prepared using Scrivener and publushe din this wiki [here]()
+The scrips are prepared using Scrivener and published din this wiki [here]([Script for YouTube series](/Open-Source-Customer-Communication-Management-System-Project/Narrative/Script-for-YouTube-series))
