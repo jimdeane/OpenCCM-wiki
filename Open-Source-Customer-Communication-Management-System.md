@@ -10,6 +10,12 @@ The documentation in in two streams:
 - The actual documentation for the project.
 
 Both of these streams start from this page. Some parts of the narrative will refer to the actual documentation to illustrate the points it's making, however, the real documentation ( other than this page ) will not refer to the narrative. 
+|   |   |
+| - | - |
+| The Documentation starts | [[here]] |
+| The Narrative starts | [[here]] |
+
+----
 
 | Links |
 |--|
