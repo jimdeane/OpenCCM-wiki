@@ -1,3 +1,3 @@
-# Open Source Customer Communication Syatem
+# Open Source Customer Communication System
 
 
