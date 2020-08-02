@@ -14,11 +14,13 @@ The documentation in in two streams:
 Both of these streams start from this page. Some parts of the narrative will refer to the actual documentation to illustrate the points it's making, however, the real documentation ( other than this page ) will not refer to the narrative. 
 
 ----
- <table style="%">
-   <tr>
+
+<div "">
+ <table >
+    <tr>
     <td>The Documentation starts</td>
     <td>
-
+    
 [here](/Open-Source-Customer-Communication-Management-System-Project/Open-Source-Customer-Communication-System)
 </td>
     
@@ -31,7 +33,7 @@ Both of these streams start from this page. Some parts of the narrative will ref
 </td> 
   </tr>
 </table>
-
+</div>
 # Massive disclaimer!!!
 this is not a **real** system in the sense that one could expect it to be downloadable and used in production. Now, it **could** be but that isn't the point of this project.  
 
