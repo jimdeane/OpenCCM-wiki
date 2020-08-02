@@ -1,3 +1,5 @@
+[[_TOC_]]
+
 # This project will create and maintain an Open Source Customer Communication Management System.
 
 There are two real reasons for constructing this project:
@@ -30,14 +32,14 @@ Both of these streams start from this page. Some parts of the narrative will ref
   </tr>
 </table>
 
-## Massive disclaimer!!!
+# Massive disclaimer!!!
 this is not a **real** system in the sense that one could expect it to be downloadable and used in production. Now, it **could** be but that isn't the point of this project.  
 
 This project was put together only to demonstrate some of the skill that I have built over the years and how I am able to use them in a practical application. 
 
 However, I may extend it over time to be something real, but should i do that it will de annotated and narrated in the same fashion. 
 
-## Licencing  
+# Licencing  
 Why does a demonstration project need licencing? Because it **may** turn into something real and then it will have needed to have been created inside a legal ecosystem that suits me!
 
 The project is licenced under a dual Open Source Community Edition and a Commercial Edition that is entirely owned by me through the Ernapsark Ltd Company.  
