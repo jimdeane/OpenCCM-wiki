@@ -38,4 +38,8 @@ This project was put together only to demonstrate some of the skill that I have 
 However, I may extend it over time to be something real, but should i do that it will de annotated and narrated in the same fashion. 
 
 ## Licencing  
-Why does a demonstration project need licencing? Bcaus it **may** turn into 
+Why does a demonstration project need licencing? Because it **may** turn into something real and then it will have needed to have been created inside a legal ecosystem that suits me!
+
+The project is licenced under a dual Open Source Community Edition and a Commercial Edition that is entirely owned by me through the Ernapsark Ltd Company.  
+
+The licednicing is explained 
