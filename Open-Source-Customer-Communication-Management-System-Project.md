@@ -32,4 +32,4 @@ Why does a demonstration project need licencing? Because it **may** turn into so
 
 The project is licenced under a dual Open Source Community Edition and a Commercial Edition that is entirely owned by me through the Ernapsark Ltd Company.  
 
-The licencing is explained [here](/Open-Source-Customer-Communication-Management-System-Project/Narrative/Licencing).
+The licencing is explained [here](/Open-Source-Customer-Communication-Management-System-Project/Open-Source-Customer-Communication-System/Licencing).
