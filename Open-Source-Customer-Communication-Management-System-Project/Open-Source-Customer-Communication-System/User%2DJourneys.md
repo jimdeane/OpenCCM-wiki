@@ -11,7 +11,7 @@ id06[06 Process email<br>confirmation<br>inbound];
 id07[07 Something<br>under 06]
 id08[08 Something else<br>under 06]
 id09[09 Another one<br>under 06]
-id10[10 Process SMS<br>confirmation<br>inbound];
+id10[10 Process SMS<br>confirmation<br>of inbound];
 id00---id01
 id01---id02
 id02---id03
