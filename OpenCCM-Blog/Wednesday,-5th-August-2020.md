@@ -1,6 +1,5 @@
 ## Why a blog
-Decided today that I need to keep track of what is 
-happening in this project outside of;
+Decided today that I need to keep track of what is happening in this project outside of:
 
 - the project itself
 - the narrative and
@@ -15,6 +14,7 @@ I'm therefore going to try to keep this up to date to record what I do on the ov
 After deciding to create this project as an illustration of capabilities in the search for a "new" career in software development I have:
 
 - come up with the subject of the project ( the OpenCCM system )
-- 
-
+- Built the very basic infrastriucture that wil be required to do the development within the Azure DevOps ecosystem and started to pull toigfether the becesaary bits and pieces, which to start wit hare:
+    - Git repo for the code with a template .NET Core project in it
+    - 
 
