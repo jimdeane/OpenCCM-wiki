@@ -1,4 +1,8 @@
 # Development Process
+## Project Process
+
+
+## Programming Process
 
 This covers more than simply the the "programming" part of the development process and, rather, illustrates the entire process from the genesis of the idea that generated the need for the resulting system all the way through the high level requirements gathering, expanding this to more detailed requirements, defining User Stories, defining technical requirements, the development platform, the development itself, testing and deployment to a publicly available website. 
 
