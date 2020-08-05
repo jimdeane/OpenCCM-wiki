@@ -1,0 +1,18 @@
+#### Render Engine
+
+The Render Engine takes items from the Render Queue and transforms them from raw
+HTML / CSS to the destination output format.
+
+The mechanism for this depends on the destination output format itself. The
+system design allows for new rendering functions to be added dynamically
+provided that they can take HTML / CSS as the raw input format.
+
+Core rendering functions would be:
+
+| Output Format | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| PDF           | PDFs will be rendered using the Print Device CSS Type. (See <https://www.w3.org/TR/css3-page/> for details of the functionality allowed for page-based devices using CSS). Actual rendering will be achieved using the Headless Chrome application which allows an external application to drive Google Chrome to produce any supported CSS Device output in the background (in a separate process). Chrome has the most complete implementation of CSS devices. |
+| HTML          | Passed directly through to the output.                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Text          | Passed directly through to the output but with any extraneous HTML tags removed.                                                                                                                                                                                                                                                                                                                                                                                 |
+| Messages      | As for text.                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Email         | Either as HTML or Text dependant on the output.                                                                                                                                                                                                                                                                                                                                                                                                                  |
