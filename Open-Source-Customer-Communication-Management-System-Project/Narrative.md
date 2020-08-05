@@ -16,4 +16,4 @@ In addition there is a multi media presentation of the process that takes the fo
 
 The scripts are prepared using Scrivener and published [here ](/Open-Source-Customer-Communication-Management-System-Project/Narrative/Script-for-YouTube-series).
 
-There are a set of techniques that are demonstrated in the overall project and these are discussed [here]()
+There are a set of techniques that are demonstrated in the overall project and these are discussed [here](  ) 
