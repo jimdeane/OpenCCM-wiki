@@ -18,9 +18,57 @@ Ernaspark's core business systems that will be initiating communication using th
 
 ## Core Business Customisations
 OpenCCM will expose three categories of customisation points that Ernaspark can provide customisation code for. These customisations are provided by Ernaspark as .NET Core libraries (DLLs) that OpenCCM calls in specified circumstances (according to the OpenCCM parameters). The categories provided for are:
+
 ### Data Services
+Data Services provide an API for OpenCCM to discover the data it needs to use to satisfy outbound communications. 
 
 ### Custom Rules
 
+OpenCCM  evaluates rules in many places to determine what communication to make and to tailor the communication itself. In many cases this can be done with the built in configurable rules, however, in some cases it is either easier to or necessary to have more complex rules and these can be written in any .NET language and called by OpenCCM when required.
+
 ### Custom Code
+
+As well as calling out for custom rule evaluation OpenCCM has opportunities for calling out to custom code, written in a .NET language, to override or compliment the processing available in the standard system. 
+
+## OpenCCM Core
+
+
+
+## Access Management
+
+## Authoring
+
+## Repository
+
+## Versioning
+
+## Pre0Render Editing
+
+## Rendering
+
+## Composition
+
+## Correlation
+
+## Outbound Distribution
+
+### Email
+
+### Text Messaging
+
+### Physical Media
+
+### Social Media 
+
+#### Facebook
+
+#### WhatsApp
+
+#### Web Consumer
+
+#### PDF Consumer
+
+#### Text Consumer
+
+## Inbound Routing
 
