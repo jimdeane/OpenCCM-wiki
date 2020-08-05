@@ -32,7 +32,7 @@ As well as calling out for custom rule evaluation OpenCCM has opportunities for 
 
 ## OpenCCM Core
 
-
+The OpenCCM Core orchestrates each of the feature modules to perform the required processing.
 
 ## Access Management
 
