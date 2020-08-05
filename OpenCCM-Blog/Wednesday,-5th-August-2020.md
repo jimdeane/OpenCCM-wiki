@@ -24,5 +24,7 @@ After deciding to create this project as an illustration of capabilities in the 
     - added the necessary additions to integrate SpecFlow and, SpecFLow+ LivingDoc to the DevOps infrastructure.
     - Created a little dashboard to bring all of this together.
 
+in addition to all of this there is a Scrivener script with the putative YouTube channel scripts in it [here](https://www.dropbox.com/sh/2ae6ou1xy23qs7i/AADYRudunaoeXZG-_1tAAlOxa?dl=0)
+
 
 
