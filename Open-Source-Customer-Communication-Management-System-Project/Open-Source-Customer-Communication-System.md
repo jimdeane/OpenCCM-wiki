@@ -42,7 +42,7 @@ The OpenCCM Core orchestrates each of the feature modules to perform the require
 
 ## Versioning
 
-## Pre0Render Editing
+## Pre-Render Editing
 
 ## Rendering
 
