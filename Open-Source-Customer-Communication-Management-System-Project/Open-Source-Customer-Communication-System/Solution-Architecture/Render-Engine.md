@@ -1,11 +1,8 @@
 #### Render Engine
 
-The Render Engine takes items from the Render Queue and transforms them from raw
-HTML / CSS to the destination output format.
+The Render Engine takes items from the Render Queue and transforms them from raw HTML / CSS to the destination output format.
 
-The mechanism for this depends on the destination output format itself. The
-system design allows for new rendering functions to be added dynamically
-provided that they can take HTML / CSS as the raw input format.
+The mechanism for this depends on the destination output format itself. The system design allows for new rendering functions to be added dynamically provided that they can take HTML / CSS as the raw input format. 
 
 Core rendering functions would be:
 
