@@ -26,5 +26,9 @@ After deciding to create this project as an illustration of capabilities in the 
 
 in addition to all of this there is a Scrivener script with the putative YouTube channel scripts in it [here](https://www.dropbox.com/sh/2ae6ou1xy23qs7i/AADYRudunaoeXZG-_1tAAlOxa?dl=0)
 
+I've now created three distinct areas of the Wiki:
+- The Project Wiki,i.e. the wiki as it would appear in a normal project
+- A narrative that describes the project and provides a meta structure
+- This blog, which is recording the day to day progress.
 
 
