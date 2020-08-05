@@ -1,5 +1,6 @@
 
 ::: mermaid
+``` mermaid
 graph TD;
 id00[00 Registration<br>fa:fa-camera-retro<br>];
 id01[01 Send email<br>confirmation];
@@ -30,6 +31,7 @@ linkStyle 4 stroke:#FFF,stroke-width:4px,color:red;
 linkStyle 5 stroke:#FFF,stroke-width:4px,color:red;
 linkStyle 6 stroke:#FFF,stroke-width:4px,color:red;
 linkStyle 7 stroke:#FFF,stroke-width:4px,color:red;
+```
 :::
 
 
