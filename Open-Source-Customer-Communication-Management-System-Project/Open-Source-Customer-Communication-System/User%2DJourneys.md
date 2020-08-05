@@ -33,15 +33,3 @@ linkStyle 6 stroke:#FFF,stroke-width:4px,color:red;
 linkStyle 7 stroke:#FFF,stroke-width:4px,color:red;
 ```
 :::
-
-
- 
-
- 
-
- 
-
-
-
-
-
