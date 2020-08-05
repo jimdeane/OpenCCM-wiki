@@ -18,6 +18,8 @@ Both of these streams start from this page. Some parts of the narrative will ref
 
 ## The Narrative starts - [here](/Open-Source-Customer-Communication-Management-System-Project/Narrative)  
 
+## The Blog starts [here](/OpenCCM-Blog)
+
 ----
 
 # Massive disclaimer!!!
