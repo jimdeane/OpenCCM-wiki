@@ -22,8 +22,8 @@ After deciding to create this project as an illustration of capabilities in the 
     - A CI build step to synchronize the code repo with a GitHub mirror. This to enable GitHub browsers to see what I'm doing and to provide a direct GitHub link.
     - A CI build step to synchronize the WIKI repo with a GitHub mirror. 
     - added the necessary additions to integrate SpecFlow and, SpecFLow+ LivingDoc to the DevOps infrastructure.
-- Added a local Agent Pool on my laptop to take away the fees of building on the Azure website.
- - Created a little dashboard to bring all of this together.
+    - Added a local Agent Pool on my laptop to take away the fees of building on the Azure website.
+    - Created a little dashboard to bring all of this together.
 
 in addition to all of this there is a Scrivener script with the putative YouTube channel scripts in it [here](https://www.dropbox.com/sh/2ae6ou1xy23qs7i/AADYRudunaoeXZG-_1tAAlOxa?dl=0)
 
